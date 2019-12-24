@@ -5,6 +5,6 @@ ENV VERSION zhouminjun
 
 WORKDIR /app
 
-COPY index.js /app/inex.js
+COPY index.js /app/index.js
 
-CMD node indes.js
+CMD node index.js
